@@ -1,4 +1,4 @@
-## God bless you😁
+## God bless you😁.
 
 ![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.gif)
 
