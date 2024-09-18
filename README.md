@@ -1,9 +1,9 @@
-## God bless you😁.
+<div align="center">God bless you😁</div>
+
 ![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.gif)
 ![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.svg)
 
 
-<div align="center">
    <a href="https://github.com/Wendelkll">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelkll&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendelkll&layout=compact&langs_count=6&theme=highcontrast"/>
@@ -20,7 +20,8 @@
  
 <br>
  
-### Follow me on social media!😊
+<div align="center">Follow me on social media!😊</div>
+<br>
  
 <div align="center"> 
   <a href="https://instagram.com/wendelkll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
