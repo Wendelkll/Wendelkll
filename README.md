@@ -3,9 +3,9 @@
 
 
 <div>
-  <a href="https://github.com/Wendelkll">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelkll&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendelkll&layout=compact&langs_count=6&theme=graywhite"/>
+   <a href="https://github.com/Wendelkll">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelkll&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendelkll&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
 <div  style="display: inline_block">
 
