@@ -1,5 +1,6 @@
 ## God bless you😁.
 ![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.svg)
 
 
 <div>
@@ -25,6 +26,6 @@
   <a href="https://www.linkedin.com/in/wendel-silva-2082b2307/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
-
-![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
+      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef233c&height=120&section=footer"/>
+</div>
