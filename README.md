@@ -2,10 +2,10 @@
 ![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.gif)
 
 
- <div>
-   <a href="https://github.com/Wendelkll">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelkll&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendelkll&layout=compact&langs_count=6&theme=highcontrast"/>
+<div>
+  <a href="https://github.com/IsraelPina32">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsraelPina32&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPina32&layout=compact&langs_count=6&theme=graywhite"/>
 </div>
 <div  style="display: inline_block">
 
@@ -13,11 +13,7 @@
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
-<<div>
-  <a href="https://github.com/IsraelPina32">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsraelPina32&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPina32&layout=compact&langs_count=6&theme=graywhite"/>
-</div>
+
  
 <br>
  
