@@ -3,16 +3,18 @@
 ![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.svg)
 
 
-<div>
+<div align="center">
    <a href="https://github.com/Wendelkll">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelkll&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendelkll&layout=compact&langs_count=6&theme=highcontrast"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendelkll&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendelkll&layout=compact&langs_count=6&theme=highcontrast"/>
+   </a>
 </div>
-<div  style="display: inline_block">
 
-  <div align="center">
+<div align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
     
 
  
