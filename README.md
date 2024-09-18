@@ -1,4 +1,6 @@
-<div align="center">God bless you😁</div>
+<div align="center">
+   <h2>God bless you😁</h2>
+</div>
 
 ![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.gif)
 ![snake gif](https://github.com/Wendelkll/Wendelkll/blob/output/github-contribution-grid-snake.svg)
@@ -20,7 +22,9 @@
  
 <br>
  
-<div align="center">Follow me on social media!😊</div>
+<div align="center">
+   <h2>Follow me on social media!😊</h2>
+</div>
 <br>
  
 <div align="center"> 
