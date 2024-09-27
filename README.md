@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Olá! 👋 Eu sou Wendel Silva!!</h2>
+   <h2>Olá! Eu sou Wendel Silva!!</h2>
    <p>Estou em constante aprendizado como desenvolvedor Full Stack, buscando aprimorar minhas habilidades e criar soluções criativas e eficientes para o mundo digital.</p>
 </div>
 
